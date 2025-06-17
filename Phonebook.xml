@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<YealinkIPPhoneDirectory>
+  <DirectoryEntry>
+    <Name>Labor Lichterfelde</Name>
+    <Telephone>12</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Labor Siemensstadt</Name>
+    <Telephone>22</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Sabrina Backoffice</Name>
+    <Telephone>18</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Sajjad & Nilu Backoffice</Name>
+    <Telephone>14</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Vanessa Backoffice</Name>
+    <Telephone>19</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Zentrale Lichterfelde</Name>
+    <Telephone>10</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Zentrale Siemensstadt</Name>
+    <Telephone>20</Telephone>
+  </DirectoryEntry>
+</YealinkIPPhoneDirectory>
